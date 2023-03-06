@@ -1,0 +1,14 @@
+D:\vscode\Otel\Otel.UI\bin\Debug\Otel.UI.exe.config
+D:\vscode\Otel\Otel.UI\bin\Debug\Otel.UI.exe
+D:\vscode\Otel\Otel.UI\bin\Debug\Otel.UI.pdb
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.csproj.AssemblyReference.cache
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.csproj.SuggestedBindingRedirects.cache
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.Properties.Resources.resources
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.csproj.GenerateResource.cache
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.csproj.CoreCompileInputs.cache
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.exe
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.pdb
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.FrmMain.resources
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.FrmMinibar.resources
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.FrmOtelRapor.resources
+D:\vscode\Otel\Otel.UI\obj\Debug\Otel.UI.FrmOtelGiris.resources
